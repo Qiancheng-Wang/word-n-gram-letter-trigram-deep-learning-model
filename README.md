@@ -17,3 +17,15 @@ Developed for my honour project [ANU Advanced Computing Honour Project 2017]
 - load_evaluate: 
 - rank_at_k: experiments. rank@1 rank@5 rank@10 MAP
 - russian_rank : get some good examples for the last part of our paper. (the json file we need manually generate from database, the queries here are all selected by ourself)
+
+
+
+
+
+
+Libraries used in the project are:
+numpy
+keras
+nltk
+json
+random
